@@ -24,6 +24,8 @@ conv markdown/widget.md "Widget全般"
 conv markdown/place.md "配置"
 conv markdown/event.md "イベント"
 conv markdown/label.md "Label Widget"
+conv markdown/message.md "Message Widget"
+conv markdown/button.md "Button Widget"
 
 \rm -f **/*~ *~
 

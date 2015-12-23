@@ -4,7 +4,9 @@
 ## はじめに
 [逆引きRuby/Tk](http://pub.cozmixng.org/~the-rwiki/rw-cgi.rb?cmd=view;name=%B5%D5%B0%FA%A4%ADRuby%2FTk) を参考（ベース）にして、PythonでのTkの作り方をまとめてみます。ちょっとずつ進めていきます。。。
 
-間違いがありましたらご連絡ください。
+
+[github](https://github.com/teppchan/tkintertips)に置いてあるので、サンプルコードはそちらでも見れます。
+間違いがありましたらgithub経由で連絡いただけるとありがたいです。
 
 ## 開発環境
 試している環境はPython2.7(anaconda-2.4.0)です。
@@ -16,8 +18,8 @@
 * [配置](place.html)
 * [イベント](event.html)
 * [Label Widget](label.html)
-* Messege Widget
-* Button Widget
+* [Messege Widget](message.html)
+* [Button Widget](button.html)
 * CheckButton Widget
 * RadioButton Widget
 * Entry Widget
@@ -33,6 +35,7 @@
 
 ## 更新履歴
 
+* 2015/12/23 「Label Widget」「Message Widget」「Button Widget」を追加
 * 2015/12/21 「イベント」「Label Widget」を追加
 * 2015/12/14 「配置」を追加
 * 2015/12/13 公開
