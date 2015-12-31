@@ -26,6 +26,7 @@ conv markdown/event.md "イベント"
 conv markdown/label.md "Label Widget"
 conv markdown/message.md "Message Widget"
 conv markdown/button.md "Button Widget"
+conv markdown/checkbutton.md "Checkbutton Widget"
 
 \rm -f **/*~ *~
 

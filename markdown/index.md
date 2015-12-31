@@ -20,7 +20,7 @@
 * [Label Widget](label.html)
 * [Messege Widget](message.html)
 * [Button Widget](button.html)
-* CheckButton Widget
+* [CheckButton Widget](checkbutton.html)
 * RadioButton Widget
 * Entry Widget
 * Text Widget
