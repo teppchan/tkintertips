@@ -27,6 +27,7 @@ conv markdown/label.md "Label Widget"
 conv markdown/message.md "Message Widget"
 conv markdown/button.md "Button Widget"
 conv markdown/checkbutton.md "Checkbutton Widget"
+conv markdown/radiobutton.md "Radiobutton Widget"
 
 \rm -f **/*~ *~
 

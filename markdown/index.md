@@ -21,7 +21,7 @@
 * [Messege Widget](message.html)
 * [Button Widget](button.html)
 * [CheckButton Widget](checkbutton.html)
-* RadioButton Widget
+* [RadioButton Widget](radiobutton.html)
 * Entry Widget
 * Text Widget
 * ListBox Widget
@@ -35,6 +35,8 @@
 
 ## 更新履歴
 
+* 2015/01/11 「RadioButton」を追加
+* 2015/12/30 「Checkbutton」を追加
 * 2015/12/23 「Label Widget」「Message Widget」「Button Widget」を追加
 * 2015/12/21 「イベント」「Label Widget」を追加
 * 2015/12/14 「配置」を追加
